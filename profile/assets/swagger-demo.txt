@@ -1,0 +1,1 @@
+Open /swagger-ui/index.html after running the app to see Swagger UI.
